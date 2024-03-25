@@ -2,7 +2,7 @@
 
 Este é um aplicativo simples que permite ao usuário inserir um prefixo e encontrar palavras na árvore AVL que começam com esse prefixo. O aplicativo foi desenvolvido em Python utilizando a biblioteca Streamlit para criar a interface do usuário e a estrutura de dados de uma Árvore AVL para realizar a busca eficiente das palavras.
 
-[Link de apresentação](https://www.loom.com/share/1a6648db305b4507a9c879c40a257dd9?sid=3046953c-946e-4de5-ba33-2d08999c86cc) 
+[Link de apresentação](https://www.loom.com/share/9ef123e57e7040f0a84f8a2893f26e39?sid=1c4d5ded-c9f5-4418-ab51-d986cb211eac) 
 
 ## Funcionalidades
 
